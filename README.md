@@ -25,7 +25,7 @@ The `config` directory contains three configuration files:
 - wdio.ios.conf.ts - Contains all iOS-specific configuration
 - wdio.shared.conf.ts - Contains configuration shared between Android and iOS devices
 
-Update the Android and iOS configurations with the specific emulators and simulators you intend to use for testing.
+Update the Android and iOS configurations with the specific emulators and simulators you intend to use for testing. Extract the app-debug.apk file from the zipped file.
 
 ### Start Tests
 
